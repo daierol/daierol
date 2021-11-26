@@ -1,4 +1,4 @@
-### Olá! Eu sou o Diego 👋
+### Olá! Eu sou o Diego 👋 Seja Bem vindo ao meu GitHub �
  <div>
   <a href="https://github.com/di0ego">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ykeido&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
